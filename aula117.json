@@ -1,0 +1,22 @@
+{
+  "nome": "Samara",
+  "sobrenome": "Matos",
+  "endereco": [
+    {
+      "rua": "rua 1",
+      "numero": 123
+    },
+    {
+      "rua": "rua 2",
+      "numero": 456
+    }
+  ],
+  "Altura": 1.7,
+  "numero_preferecido": [
+    7,
+    3,
+    9
+  ],
+  "dev": true,
+  "nada": null
+}
